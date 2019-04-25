@@ -1,0 +1,24 @@
+#formAdministration > div {
+    width: 150px;
+    height: 30px;
+    display: inline-block;
+}
+
+.firstTxt{
+    width: 120px;
+    height: 30px;
+}
+
+.firstBtn{
+    width: 35px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+
+.firstCombo{
+    width: 120px;
+    height: 30px;
+}
+
